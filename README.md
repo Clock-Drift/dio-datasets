@@ -1,4 +1,4 @@
-# dio-datasets
+# dip-datasets
 Basic introduction to dataset analysis using fiftyone for the CCI Diploma. 
 
 This session introduces you to a set of qualitative and quantitive methods we can use to analyse machine learning datasets. We'll be using the open source application [fiftyone](https://github.com/voxel51/fiftyone) via a Python Notebook to explore foundational datasets such as Imagenet, COCO and more. 
